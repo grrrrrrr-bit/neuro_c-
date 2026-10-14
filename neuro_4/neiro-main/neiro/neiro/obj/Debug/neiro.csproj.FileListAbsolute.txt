@@ -1,0 +1,43 @@
+Z:\Neiro\neiro\neiro\bin\Debug\neiro.exe.config
+Z:\Neiro\neiro\neiro\bin\Debug\neiro.exe
+Z:\Neiro\neiro\neiro\bin\Debug\neiro.pdb
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.csproj.AssemblyReference.cache
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.Form1.resources
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.Properties.Resources.resources
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.csproj.GenerateResource.cache
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.csproj.CoreCompileInputs.cache
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.exe
+Z:\Neiro\neiro\neiro\obj\Debug\neiro.pdb
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\bin\Debug\neiro.exe.config
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\bin\Debug\neiro.exe
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\bin\Debug\neiro.pdb
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.AssemblyReference.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.exe.config
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.Form1.resources
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.Properties.Resources.resources
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.GenerateResource.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.CoreCompileInputs.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.exe
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neiro\obj\Debug\neiro.pdb
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\bin\Debug\neiro.exe.config
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\bin\Debug\neiro.exe
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\bin\Debug\neiro.pdb
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.AssemblyReference.cache
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.exe.config
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.Form1.resources
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.Properties.Resources.resources
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.GenerateResource.cache
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.CoreCompileInputs.cache
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.exe
+C:\Торент\Game\neuro_c--main\neiro-main\neiro\neiro\obj\Debug\neiro.pdb
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\bin\Debug\neiro.exe.config
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\bin\Debug\neiro.exe
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\bin\Debug\neiro.pdb
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.AssemblyReference.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.exe.config
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.Form2.resources
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.Properties.Resources.resources
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.GenerateResource.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.csproj.CoreCompileInputs.cache
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.exe
+C:\Users\mdffd\OneDrive\Рабочий стол\работа 1\neiro-main\neiro\neuro_2\neiro-main\neiro\neiro\obj\Debug\neiro.pdb
